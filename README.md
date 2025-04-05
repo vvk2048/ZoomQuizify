@@ -1,4 +1,12 @@
+
+HOME PAGE
 <img width="1779" alt="image" src="https://github.com/user-attachments/assets/58097f47-7a82-4837-9dfc-ded2d6d7b1f6" />
+ QUIZ LAYOUT
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/b6fa3b1d-2efc-4c3a-9c14-ddfcfcafb7fd" />
+FEEDBACK LAYOUT 
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/7d47af09-1148-4370-8a24-87fcf1a7ed08" />
+
+
 
 
 # Getting Started with Create React App
