@@ -10,7 +10,10 @@ FEEDBACK LAYOUT
 <img width="1575" alt="image" src="https://github.com/user-attachments/assets/0011fec5-7a6b-49b5-a7b5-3464934be167" />
 
 
+TECHNICAL WORKFLOW
 
+
+![image](https://github.com/user-attachments/assets/1da9f8e7-96d5-49db-9580-864043baf155)
 
 
 # Getting Started with Create React App
