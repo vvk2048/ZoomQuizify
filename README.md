@@ -16,6 +16,41 @@ TECHNICAL WORKFLOW
 ![image](https://github.com/user-attachments/assets/1da9f8e7-96d5-49db-9580-864043baf155)
 
 
+TECH STACK
+🧰 Tech Stack
+💻 Frontend
+React.js – SPA (Single Page Application) for interactive quiz experience
+
+Axios – HTTP client to fetch MCQs from backend
+
+CSS – Custom styles for responsive UI
+
+🧠 Backend
+FastAPI – High-performance Python web framework for API endpoints
+
+Google Gemini API – Generates multiple-choice questions from transcript text
+
+aiohttp – Async HTTP requests to download Zoom transcript files
+
+sqlite3 – Lightweight embedded database for storing MCQs per meeting
+
+📦 Dev Tools
+Uvicorn – ASGI server to run FastAPI backend
+
+CORS Middleware – Enables frontend-backend communication
+
+dotenv – Manages API keys and environment variables
+
+Git – Version control
+
+npm – Package manager for frontend dependencies
+
+🔌 Integrations
+Zoom Webhooks – Automatically triggers MCQ generation on transcript_completed event
+
+Transcript Upload – Also supports manual .vtt file upload from Zoom recordings
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
