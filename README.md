@@ -16,7 +16,7 @@ TECHNICAL WORKFLOW
 ![image](https://github.com/user-attachments/assets/1da9f8e7-96d5-49db-9580-864043baf155)
 
 
-TECH STACK
+## TECH STACK
 🧰 Tech Stack
 💻 Frontend
 React.js – SPA (Single Page Application) for interactive quiz experience
